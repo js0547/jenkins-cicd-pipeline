@@ -5,6 +5,7 @@
   <artifactId>jenkins-lab</artifactId>
   <version>1.0</version>
 <build>
+  <finalName>jenkins-lab</finalName>
   <sourceDirectory>src</sourceDirectory>
   <plugins>
     <plugin>
