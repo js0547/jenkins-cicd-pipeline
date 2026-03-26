@@ -1,6 +1,6 @@
 
 public class Helloworld {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins CI Pipeline!");
+        System.out.println("Jenkins CI Pipeline: A new commit is added!");
     }
 }
